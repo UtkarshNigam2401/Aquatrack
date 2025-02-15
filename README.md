@@ -64,6 +64,8 @@ Run the frontend server:
 npm start
 Frontend will be live at: http://localhost:3000
 
+---
+
 ## 📬 Contact
 📧 **Email: utkarsh02n@gmail.com**
 🐙 **GitHub: UtkarshNigam2401**
