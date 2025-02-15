@@ -57,9 +57,9 @@ npm start
 Frontend will be live at: http://localhost:3000
 
 📬 Contact
-📧 Email: utkarsh02n@gmail.com
-🐙 GitHub: UtkarshNigam2401
-🔗 LinkedIn: https://www.linkedin.com/in/utkarsh-nigam-175003222
+📧 **Email: utkarsh02n@gmail.com**
+🐙 **GitHub: UtkarshNigam2401**
+🔗 **LinkedIn: https://www.linkedin.com/in/utkarsh-nigam-175003222**
 
 
 
