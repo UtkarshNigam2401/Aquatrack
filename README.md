@@ -16,15 +16,15 @@
 
 ## 📂 Project Structure  
 Aquatrack/ 
-├── frontend/ # React.js (Client)  
-│ ├── src/ 
-│ ├── public/ 
-│ └── package.json 
-├── backend/ # Spring Boot (Server) 
-│ ├── src/main/java/com/app/ 
-│ ├── src/main/resources/ 
-│ └── pom.xml 
-└── README.md
+├── frontend/ # React.js (Client)    
+│ ├── src/   
+│ ├── public/   
+│ └── package.json   
+├── backend/ # Spring Boot (Server)   
+│ ├── src/main/java/com/app/   
+│ ├── src/main/resources/   
+│ └── pom.xml   
+└── README.md    
 
 ---
 
