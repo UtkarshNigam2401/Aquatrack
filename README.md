@@ -15,7 +15,7 @@
 ---
 
 ## 📂 Project Structure  
-Aquatrack/ 
+Aquatrack/   
 ├── frontend/ # React.js (Client)    
 │ ├── src/   
 │ ├── public/   
