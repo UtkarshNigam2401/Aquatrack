@@ -1,0 +1,85 @@
+.logo-style {
+    font-family: 'Verdana'; /* Use a clean sans-serif font */
+    font-size: 1.5rem; /* Adjust size as needed */
+    font-weight: 600; /* Semi-bold weight */
+    color: #b5dceb;
+
+    -webkit-background-clip: text; /* Clip background to text */
+    background-clip: text;
+  }
+
+  .gym-plan {
+    font-family: 'Arial', sans-serif; /* Use a clean sans-serif font */
+    font-size: 2rem; /* Adjust size as needed */
+    font-weight: 600; /* Semi-bold weight */
+    letter-spacing: 0.2em; /* Add letter spacing */
+    text-transform: uppercase; /* Make text uppercase */
+    color: transparent;
+    background: linear-gradient(to right, #cccccc, #666666); /* Light to dark gray gradient */
+    -webkit-background-clip: text; /* Clip background to text */
+    background-clip: text;
+  }
+
+  .video-overlay {
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 18%;
+    z-index: 0;
+  }
+  
+  .video-container {
+    height: 40vh; /* Adjust this to your needs */
+    margin-top: 5%;
+  }
+  
+
+  .video-overlay h1:first-child {
+    font-size: 6rem;
+    margin: 0;
+    text-shadow: 0 0 3px white, 0 0 3px white, 0 0 3px white;
+  }
+  
+  .highlight{
+    font-size: 3rem;
+    margin: 0;
+    color: transparent; /* Make the text inside transparent */
+    -webkit-text-stroke: 1px white; /* White border around the text */
+    display:inline-block;
+  }
+  
+  
+  .span {
+    color: #00b7ff9a; /* Adjust color to match desired style */
+    display: inline;
+    text-shadow: 0 0 3px white, 0 0 3px white, 0 0 3px white;
+  }
+  
+  .mycontainer {
+    position: relative;
+    padding-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .container h2,
+.container p {
+  color: black; /* Set the text color to black */
+}
+
+.footer{
+  background-color: white;
+  color: black;
+}
+
+.navbar {
+  position: relative;
+  z-index: 1; /* Make sure navbar stays on top of the video */
+}
+
+
+  
+  
